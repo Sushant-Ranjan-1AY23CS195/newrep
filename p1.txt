@@ -1,4 +1,8 @@
  hii 
  heloo
  new branch added
+<<<<<<< Updated upstream
  stash
+=======
+ new stash 
+>>>>>>> Stashed changes
